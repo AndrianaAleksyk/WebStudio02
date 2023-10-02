@@ -10,6 +10,8 @@
 
 }
 
+/*STUDIO STUDIO STUDIO STUDIO STUDIO*/
+
 /*Header styles*/
 
 .header {
@@ -78,6 +80,9 @@
 .offers-list-item {
 
 }
+.offers-list-picture {
+
+}
 
 /*Team styles*/
 
@@ -96,6 +101,9 @@
 .team-item-desc {
 
 }
+.team-list-picture {
+
+}
 
 /*Footer styles*/
 
@@ -103,4 +111,36 @@
 
 }
 .footer-desc {
+}
+
+/*PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO*/
+
+/*Portfolio section*/
+
+.portfolio{
+
+}
+.portfolio-title {
+
+}
+.portfolio-list {
+
+}
+.portfolio-list-item {
+
+}
+.portfolio-list-images {
+
+}
+.portfolio-images-items {
+
+}
+.portfolio-img-item {
+
+}
+.portfoilio-subtitle {
+
+}
+.portfolio-desc {
+
 }
