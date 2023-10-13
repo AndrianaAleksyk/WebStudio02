@@ -1,15 +1,25 @@
 /*Base styles*/
+:root {
+    --primary-font: "Roboto", sans-serif;
+    --secondary-font: "Raleway", sans-serif;
+    --primery-color: #434455;
+    --background-color: #FFFFFF;
+    
+}
+    
 .body {
-
+    font-family: var(--primery-font);
+    color: var(--primery-color);
+    background-color:var(--background-color);
 }
 .section {
 
 }
 .link {
-
+    text-decoration: none;
 }
 .list {
-
+    list-style: none;
 }
 
 /*STUDIO STUDIO STUDIO STUDIO STUDIO*/
