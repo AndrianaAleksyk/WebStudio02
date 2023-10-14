@@ -36,7 +36,13 @@
 
 }
 .navigation-list-item {
-
+    color:#2E2F42;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px; 
 }
 .address {
 
@@ -45,29 +51,60 @@
 
 }
 .address-list-item {
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
 
 }
 /*Logo*/
 
 .logo {
-
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 21px;
+    letter-spacing: 0.54px;
 }
 .logo-dark {
-
+    color: #2E2F42;
 }
 .logo-light {
-
+    color: #4D5AE5;
+}
+.logo-footer {
+    color:#F4F4FD;
+    
 }
 
 /*Hero styles*/
 
 .hero {
+    background: var(--NAVY-BLUE, #2E2F42);
 
 }
 .hero-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
 
 }
 .hero-button {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: 0.64px;
 
 }
 
@@ -89,7 +126,8 @@
 
 }
 .benefits-item-desc {
-
+    color: #2E2F42;
+ 
 }
 
 /*Offers styles*/
@@ -131,7 +169,7 @@
 /*Footer styles*/
 
 .footer {
-
+    background-color: #2E2F42;
 }
 .footer-desc {
 }
